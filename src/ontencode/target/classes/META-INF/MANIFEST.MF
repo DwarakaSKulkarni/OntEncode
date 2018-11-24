@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Built-By: pattar
+Class-Path: ./src/main/resources/ junit/junit-dep/4.8.2/junit-dep-4.8.
+ 2.jar org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar org/apache
+ /jena/jena-tdb/3.6.0/jena-tdb-3.6.0.jar org/apache/jena/jena-arq/3.6.
+ 0/jena-arq-3.6.0.jar org/apache/jena/jena-core/3.6.0/jena-core-3.6.0.
+ jar org/apache/jena/jena-iri/3.6.0/jena-iri-3.6.0.jar xerces/xercesIm
+ pl/2.11.0/xercesImpl-2.11.0.jar xml-apis/xml-apis/1.4.01/xml-apis-1.4
+ .01.jar commons-cli/commons-cli/1.4/commons-cli-1.4.jar org/apache/je
+ na/jena-base/3.6.0/jena-base-3.6.0.jar org/apache/commons/commons-csv
+ /1.5/commons-csv-1.5.jar com/github/andrewoma/dexx/collection/0.7/col
+ lection-0.7.jar org/apache/jena/jena-shaded-guava/3.6.0/jena-shaded-g
+ uava-3.6.0.jar org/apache/httpcomponents/httpclient/4.5.3/httpclient-
+ 4.5.3.jar org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+  commons-codec/commons-codec/1.9/commons-codec-1.9.jar com/github/jso
+ nld-java/jsonld-java/0.11.1/jsonld-java-0.11.1.jar com/fasterxml/jack
+ son/core/jackson-core/2.9.0/jackson-core-2.9.0.jar com/fasterxml/jack
+ son/core/jackson-databind/2.9.0/jackson-databind-2.9.0.jar com/faster
+ xml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.
+ jar commons-io/commons-io/2.5/commons-io-2.5.jar org/apache/httpcompo
+ nents/httpclient-cache/4.5.3/httpclient-cache-4.5.3.jar org/apache/th
+ rift/libthrift/0.10.0/libthrift-0.10.0.jar org/slf4j/jcl-over-slf4j/1
+ .7.25/jcl-over-slf4j-1.7.25.jar org/apache/commons/commons-lang3/3.4/
+ commons-lang3-3.4.jar org/apache/jena/jena-tdb2/3.6.0/jena-tdb2-3.6.0
+ .jar org/apache/jena/jena-dboe-trans-data/3.6.0/jena-dboe-trans-data-
+ 3.6.0.jar org/apache/jena/jena-dboe-transaction/3.6.0/jena-dboe-trans
+ action-3.6.0.jar org/apache/jena/jena-dboe-base/3.6.0/jena-dboe-base-
+ 3.6.0.jar org/apache/jena/jena-dboe-index/3.6.0/jena-dboe-index-3.6.0
+ .jar org/apache/jena/jena-rdfconnection/3.6.0/jena-rdfconnection-3.6.
+ 0.jar log4j/log4j/1.2.17/log4j-1.2.17.jar org/slf4j/slf4j-api/1.7.5/s
+ lf4j-api-1.7.5.jar org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.ja
+ r
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Main-Class: com.uvce.cse.searchiot.encodeont.app.TestApp
+
