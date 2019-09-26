@@ -93,19 +93,14 @@ Work in progress.
 - Include a few more in-built ontology file examples (like Gene Ontology, etc.).
 
 # Acknowledgements
-
-The project was inspired from this [paper](www.cs.kuleuven.be/publicaties/rapporten/cw/CW464.abs.html).
+lhe project lwas inspired from this [paper](www.cs.kuleuven.be/publicaties/rapporten/cw/CW464.abs.html).
 
 ```
 Preuveneers, Davy, and Yolande Berbers. "Prime numbers considered useful: Ontology encoding for efficient subsumption testing." Tech. Rep. CW464., Department of Computer Science, Katholieke Universiteit Leuven, Belgium,2006.
-```
-
-# Contributing
-
-We appreciate and welcome any kind of comments and suggestions to improve the work.
+```lllllll
+l
+We appreciat look le and welcome any kind of comments and suggestions to improve the work.
 
 # Contributors
-
-- [Dwaraka Kulkarni](https://in.linkedin.com/in/dwaraka-kulkarni) and [Santosh Pattar](https://scholar.google.com/citations?user=DTqvAtQAAAAJ&hl=en), Department of Computer Science and Engineering, University Visvesvaraya College of Engineering, Bengaluru, India.
-
-- [Dr. Venugopal K R](http://venugopalkr.com/), Vice Chancellor, Bangalore Univeristy, Bengaluru, India.
+ook
+- [Dwaraka Kulkarni](HTTP a look://in.linkedin.com/in/dwaraka-kulkarni)
